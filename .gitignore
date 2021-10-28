@@ -90,3 +90,5 @@ uncompressed/
 # access lock files
 *.lbd
 
+/.idea/
+/tests/end2end/Output/
