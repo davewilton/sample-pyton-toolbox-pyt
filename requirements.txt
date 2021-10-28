@@ -1,0 +1,2 @@
+# requirements required to run tests and build doco. These are not required by the user at this time
+pytest>=5.3.5
