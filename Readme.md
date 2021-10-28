@@ -1,4 +1,5 @@
-
+# Sample Python Addin
+Just a sample project showing how I like to set up an Esri Python addin and test it.
 
 
 ## Setting up Dev env ###

@@ -76,6 +76,7 @@ docs/_build/
 # temp unit test files
 tests/end2end/Output/*.txt
 tests/unit/Output/*.txt
+tests/end2end/Output/output.txt
 
 uncompressed/
 
