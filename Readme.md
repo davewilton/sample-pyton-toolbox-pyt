@@ -24,7 +24,7 @@ Set the interpreter for the PyCharm Project:
 If your project has library requirements outside of those included with ArcGIS Pro:      
  
 * Activate the new environment
-    - ``activate daprodev``
+    - ``activate sampleAddin``
 * Install all requirements
     - ``pip install -r requirements.txt``
 * run the tests
