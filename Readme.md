@@ -32,7 +32,7 @@ If your project has library requirements outside of those included with ArcGIS P
     
 ## Tests
 ### unit tests
-Unit tests mock out arcpy for speed. Any arcObjects used must be mocked out either locally in the test
+Unit tests mock out arcpy for speed. Any arcpy objects used must be mocked out either locally in the test
 or globally in the arcpy_mock module
 
 ### end to end tests
