@@ -28,7 +28,8 @@ If your project has library requirements outside of those included with ArcGIS P
 * Install all requirements
     - ``pip install -r requirements.txt``
 * run the tests
-    - ``pytest``
+    - ``pytest tests/unit ``
+    - ``pytest tests/end2end --nomock``
     
 ## Tests
 ### unit tests
